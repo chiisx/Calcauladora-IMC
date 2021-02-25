@@ -5,9 +5,10 @@ lista de futras acréscimos:
     <ul>
      
             <li> animações para cada medida de peso.
-           <li> efeito show hide para mostrar os resultados.</li></ul>
-           <li> indicações de  melhores praticas  para bem estar.</li>
-          <li>  melhorar layout referencia a marcas como smartfit.</li>
+        efeito show hide para mostrar os resultados.
+       indicações de  melhores praticas  para bem estar.
+          melhorar layout referencia a marcas como smartfit.<
+          /li>
           
      </ul>
 
