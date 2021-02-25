@@ -8,7 +8,7 @@ lista de futras acréscimos:
         efeito show hide para mostrar os resultados.
        indicações de  melhores praticas  para bem estar.
           melhorar layout referencia a marcas como smartfit.<
-          /li>
           
-     </ul>
+          
+
 
